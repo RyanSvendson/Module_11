@@ -24,23 +24,23 @@ pip install holoviews
 
 First we used a csv of search data provided by google. We then narrowed in on the month of May 2020. 
 
-![Image 1](Starter_Code/module_11_1.jpg)
+![Image 1](module_11/Starter_Code/module_11_1.jpg)
 
 Then we looked at Search Traffic by day of the week
 
-![Image 2](Starter_Code/module_11_2.jpg)
+![Image 2](module_11/Starter_Code/module_11_2.jpg)
 
 Then hour of the day
 
-![Image 3](Starter_Code/module_11_3.jpg)
+![Image 3](module_11/Starter_Code/module_11_3.jpg)
 
 Additionally, we wanted to see if any holidays impacted search traffic
 
-![Image 4](Starter_Code/module_11_4.jpg)
+![Image 4](module_11/Starter_Code/module_11_4.jpg)
 
 And finally, is there a corrolation between search traffic and stock price. 
 
-![Image 5](Starter_Code/module_11_5.jpg)
+![Image 5](module_11/Starter_Code/module_11_5.jpg)
 
 ---
 
