@@ -6,17 +6,17 @@ A Jupyter notebook that contains data preparation, analysis, and visualizations 
 
 ## Technologies
 
-Python 3.9
-Google Colab
+- Python 3.9
+- Google Colab
 
 ---
 
 ## Install and Dependencies
 
-pip install pystan
-pip install prophet
-pip install hvplot
-pip install holoviews
+- pip install pystan
+- pip install prophet
+- pip install hvplot
+- pip install holoviews
 
 ---
 
